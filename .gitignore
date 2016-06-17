@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 /target/
 /.settings/
 /.classpath
 /.project
+=======
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+>>>>>>> 0ea919fe1130d626c702c730c322fde4b1bdfd27
